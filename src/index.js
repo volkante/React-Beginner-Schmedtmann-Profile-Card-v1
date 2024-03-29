@@ -28,9 +28,7 @@ function Intro() {
     <>
       <h1>Volkan Temelli</h1>
       <p>
-        Front-end web developer. MA Media Culture. Outside of coding, catch me
-        zooming down bike paths, wandering off, or getting lost in the rabbit
-        hole of Wikipedia's wonders.
+        Front-end web developer. Lorem Ipsum. Lorem Lorem Lorem.
       </p>
     </>
   );
